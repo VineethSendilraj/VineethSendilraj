@@ -1,4 +1,5 @@
-# Hi, I'm Vineeth 👋
+<h1 align="center">Hi, I'm Vineeth 👋</h1>
+
 I am a high schooler interested in anything tech: AI, Design, Hardware. I build projects in the scientific researchc & finance. <br><br> <br>Want to better organize your research? Join the waitlist: [Yuno.so](www.yuno.so) <br>
 
 
