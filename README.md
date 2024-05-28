@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 
-I am a high schooler interested in anything tech: AI, Design, Hardware. I build projects in the scientific research & finance sector. <br><br> <br>Want to better organize your research? Join the waitlist: [Yuno.so](www.yuno.so) <br>
+GT student interested in building impactful projects that scale ‼️<br><br> <br>Want to better organize your research? Join the waitlist: [Yuno.so](www.yuno.so) <br>
 
 
 ## 🌐 Socials:
