@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 
-GT student interested in building impactful projects that scale ‼️<br><br> <br>Want to better organize your research? Join the waitlist: [Yuno.so](www.yuno.so) <br>
+GT student interested in building impactful projects that scale ‼️<br><br> <br>Want to better organize your research? Check out [Yuno.so](www.yuno.so) <br>
 
 
 ## 🌐 Socials:
