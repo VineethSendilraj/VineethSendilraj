@@ -4,14 +4,14 @@ GT student interested in building impactful projects that scale ‼️<br><br>
 
 
 <h2>Here are some of my past projects:</h2>
-
-<b>**Recent**</b> safely: [travelsafely.club](www.travelsafely.club) <br>
+<b>**Recent**</b> <br>
+safely: [travelsafely.club](www.travelsafely.club) <br> <br>
 Yuno: [yuno.so](www.yuno.so) <br>
 CADmir: [cadmir.org](www.cadmir.org) <br>
 Micro-Q: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)<br>
 AgroSENSE: [2021.igem.org/Team:Lambert_GA](https://2021.igem.org/Team:Lambert_GA) <br>
 CADlock: [2022.igem.wiki/lambert-ga](https://2022.igem.wiki/lambert-ga/) <br>
-CADlock Phase 2:[2023.igem.wiki/lambert-ga](https://2023.igem.wiki/lambert-ga/) <br>
+CADlock Phase 2: [2023.igem.wiki/lambert-ga](https://2023.igem.wiki/lambert-ga/) <br>
 
 
 
