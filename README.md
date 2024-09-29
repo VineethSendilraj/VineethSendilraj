@@ -3,13 +3,14 @@
 GT student interested in building impactful projects that scale ‼️<br><br>
 
 <h2>Here are some of my past projects:</h2>
-safely: [travelsafely.club](www.travelsafely.club)<br>
-Yuno: [yuno.so](www.yuno.so)<br>
-CADmir: [cadmir.org](www.cadmir.org)<br>
+
+safely: [travelsafely.club](www.travelsafely.club) <br>
+Yuno: [yuno.so](www.yuno.so) <br>
+CADmir: [cadmir.org](www.cadmir.org) <br>
 Micro-Q: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)<br>
 CADlock: []() <br>
 CADlock Phase 2:[]() <br>
-Agro-Q: []()<br>
+Agro-Q: []() <br>
 
 
 ## 🌐 Socials:
