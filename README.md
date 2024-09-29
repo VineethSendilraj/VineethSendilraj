@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 
-GT student interested in building impactful projects that scale ‼️<br>
+GT student interested in building impactful projects that scale ‼️<br><br>
 
-Here are some of my past projects:
-safely: [travelsafely.club](www.travelsafely.club)
-Yuno: [yuno.so](www.yuno.so)
-CADmir: [cadmir.org](www.cadmir.org)
-Micro-Q: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)
-CADlock: 
-CADlock Phase 2: 
-Agro-Q:
+Here are some of my past projects:<br>
+safely: [travelsafely.club](www.travelsafely.club)<br>
+Yuno: [yuno.so](www.yuno.so)<br>
+CADmir: [cadmir.org](www.cadmir.org)<br>
+Micro-Q: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)<br>
+CADlock: []() <br>
+CADlock Phase 2:[]() <br>
+Agro-Q: []()<br>
 
 
 ## 🌐 Socials:
