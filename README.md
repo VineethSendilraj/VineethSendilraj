@@ -2,7 +2,7 @@
 
 GT student interested in building impactful projects that scale ‼️<br><br>
 
-<h2>Here are some of my past projects:</h2> <br>
+<h2>Here are some of my past projects:</h2>
 safely: [travelsafely.club](www.travelsafely.club)<br>
 Yuno: [yuno.so](www.yuno.so)<br>
 CADmir: [cadmir.org](www.cadmir.org)<br>
