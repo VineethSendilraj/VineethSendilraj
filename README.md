@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 
-GT student interested in building impactful projects that scale ‼️<br>
+Georgia Tech student interested in building impactful projects that scale ‼️<br>
 
 
 
