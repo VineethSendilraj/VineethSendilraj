@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 
-Georgia Tech student interested in scaling projects related to computing theory, machine learning, distributed systems, and big data ‼️<br>
+Georgia Tech student interested in scaling projects related to computing theory, machine learning, and distributed systems ‼️<br>
 
 
 
