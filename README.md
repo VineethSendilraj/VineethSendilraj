@@ -5,7 +5,7 @@ Georgia Tech student interested in scaling projects related to computing theory,
 
 
 
-### Recent Build
+### Recent Builds
 
 safely: [travelsafely.club](https://www.travelsafely.club) <br> 
 GradGT:  [grad-gt.vercel.app](https://grad-gt.vercel.app/) <br> 
