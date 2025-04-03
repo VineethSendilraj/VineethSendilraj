@@ -30,7 +30,7 @@ Georgia Tech student interested in scaling projects related to computing theory,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineeth-sendilraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VineethSendil) [![](https://visitcount.itsvg.in/api?id=VineethSendilraj&icon=0&color=8)](https://visitcount.itsvg.in) <br>
-📫 Want to build / chat? Shoot me an email! vineethsendilraj@gatech.edu  <br>
+Want to build / chat? Shoot me an email! <a href="mailto:vineethsendilraj@gatech.edu">`vineethsendilraj@gatech.edu`</a>
 
 
 
