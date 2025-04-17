@@ -3,8 +3,8 @@
   <b>Building in AI, distributed systems, and computing theory ‼️</b><br>
 </p>
 <p align="center">
-  <a href="https://www.vineethsendilraj.com/"><img src="https://img.shields.io/badge/vineethsendilraj.com-teal?style=flat" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/vineeth-sendilraj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.vineethsendilraj.com/"><img src="https://img.shields.io/badge/🌐-vineethsendilraj.com-2ecc71?style=flat&labelColor=46AE92&color=46AE92" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/vineeth-sendilraj"><img src="https://img.shields.io/badge/In-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5" alt="LinkedIn"/></a>
   <a href="https://x.com/VineethSendil"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
 
