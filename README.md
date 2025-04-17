@@ -11,21 +11,21 @@ Interested in scaling projects related to computing theory, machine learning, an
 
 
 ### Consumer Apps 
-- safely: [travelsafely.club](https://www.travelsafely.club) <br> 
-- GradGT:  [grad-gt.vercel.app](https://grad-gt.vercel.app/) <br> 
-- Yuno: [yuno.so](https://www.yuno.so) <br>
-- CADmir: [cadmir.org](https://www.cadmir.org) <br>
+- safely - navigation around high crime areas: [travelsafely.club](https://www.travelsafely.club) <br> 
+- GradGT - pre-requisize visualisation chart:  [grad-gt.vercel.app](https://grad-gt.vercel.app/) <br> 
+- Yuno - research without 50 tabs open: [yuno.so](https://www.yuno.so) <br>
+- CADmir - AI Heart Research Database: [cadmir.org](https://www.cadmir.org) <br>
 
 ### Research
-- Micro-Q: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer) <br>
-- AgroSENSE: [2021.igem.org/Team:Lambert_GA](https://2021.igem.org/Team:Lambert_GA) <br>
-- CADlock: [2022.igem.wiki/lambert-ga](https://2022.igem.wiki/lambert-ga/) <br>
+- Micro-Q - Frugal Flourometer: [projectboard.world/ISEF](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer) <br>
+- AgroSENSE - Nutrient Biosensors for Hydroponics: [2021.igem.org/Team:Lambert_GA](https://2021.igem.org/Team:Lambert_GA) <br>
+- CADlock - Heart Disease Diagnostics: [2022.igem.wiki/lambert-ga](https://2022.igem.wiki/lambert-ga/) <br>
 - CADlock Phase 2: [2023.igem.wiki/lambert-ga](https://2023.igem.wiki/lambert-ga/) <br>
 
 ### Misc
-- Boovie: [Demo Video](https://devpost.com/software/boovie) <br>
-- SignSight : [Demo Video](https://devpost.com/software/sign-sight-no-voice-unheard) <br> 
-- Deqo: [Demo Video](https://devpost.com/software/deqo) <br> 
+- Boovie - AI Movie Trailers: [Demo Video](https://devpost.com/software/boovie) <br>
+- SignSight - Conversational Smart glasses for the deaf: [Demo Video](https://devpost.com/software/sign-sight-no-voice-unheard) <br> 
+- Deqo - Decentrilized Computing Marketplace: [Demo Video](https://devpost.com/software/deqo) <br> 
 
 
 ## 🌐 Socials:
