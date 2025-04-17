@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
-Interested in scaling projects related to computing theory, machine learning, and distributed systems ‼️<br>
-
-**About me:** [vineethsendilraj.com](https://www.vineethsendilraj.com/) <br> 
+<p align="center">
+  <b>Building at the intersection of ML, distributed systems, and computing theory ‼️</b><br>
+  <a href="https://www.vineethsendilraj.com/">vineethsendilraj.com</a> 
+</p>
 
 ## Projects
 ### 🚀 Consumer Apps
@@ -14,7 +15,6 @@ Interested in scaling projects related to computing theory, machine learning, an
 - **[Micro-Q](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)** - Low-cost IoT fluorometer
 - **CADlock ([Phase 2](https://2023.igem.wiki/lambert-ga/), [Phase 1](https://2022.igem.wiki/lambert-ga/))** - Heart disease diagnostics (2023)
 - **[AgroSENSE](https://2021.igem.org/Team:Lambert_GA)** - Nutrient biosensors for hydroponics
-
 
 ### 🛠️ Hackathon & Side Projects
 - **[Boovie](https://devpost.com/software/boovie)** - AI-generated movie trailers
