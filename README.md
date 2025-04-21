@@ -12,7 +12,7 @@
 ### 🚀 Consumer Apps
 - **[safely](https://www.travelsafely.club)** - Navigation around high-crime areas
 - **[GradGT](https://grad-gt.vercel.app/)** - Pre-requisite visualization chart
-- **[Yuno](https://www.yuno.so)** - Research without 50 tabs open
+- **[Yuno](https://www.yuno.so)** - Want to research without 50 tabs open?
 - **[CADmir](https://www.cadmir.org)** - AI heart research database
 
 ### 🔬 Research Projects
