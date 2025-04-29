@@ -24,6 +24,7 @@
 - **[Boovie](https://devpost.com/software/boovie)** - AI-generated movie trailers
 - **[SignSight](https://devpost.com/software/sign-sight-no-voice-unheard)** - Conversational smart-glasses for the deaf
 - **[Deqo](https://devpost.com/software/deqo)** - Decentralized computing marketplace
+- **[CSVisTool](https://csvistool.com/)** - Data Structures & Algorithms Visualization Tool (Open-Source Contributor)
 
 <br>
 
