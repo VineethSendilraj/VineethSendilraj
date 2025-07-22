@@ -13,8 +13,9 @@
 - **[safely](https://www.travelsafely.club)** - Navigation around high-crime areas
 - **[GradGT](https://grad-gt.vercel.app/)** - Pre-requisite visualization chart
 - **[Yuno](https://www.yuno.so)** - Want to research without 50 tabs open?
-- **[CADmir](https://www.cadmir.org)** - AI heart research database
 - **[FreeSauce](https://free-stuff-eta.vercel.app/)** - Free credits & tools for college builders
+- **[CADmir](https://www.cadmir.org)** - AI heart research database
+
 
 ### 🔬 Research Projects
 - **[Micro-Q](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)** - Low-cost IoT fluorometer
