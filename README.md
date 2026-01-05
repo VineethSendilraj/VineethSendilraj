@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vineeth 👋</h1>
 <p align="center">
-  <b>Building in AI, distributed systems, and computing theory ‼️</b><br>
+  <b>Building in high-performance computing, interpretable ai, computer use, & robotics ‼️</b><br>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/vineethsendilraj"><img src="https://img.shields.io/badge/In-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5" alt="LinkedIn"/></a>
