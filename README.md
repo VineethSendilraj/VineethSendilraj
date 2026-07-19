@@ -8,6 +8,12 @@
   <a href="https://www.vineethsendilraj.com/"><img src="https://img.shields.io/badge/vineethsendilraj.com-2ecc71?style=flat&color=46AE92" alt="Portfolio"/></a>
 </p>
 
+<!-- animated contribution graph: real data, squares light up one by one.
+     regenerated daily by .github/workflows/update-profile-art.yml -->
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="720" alt="Vineeth's GitHub contribution graph — auto-refreshed daily" />
+</p>
+
 ## Projects
 ### 🚀 Consumer Apps
 - **[safely](https://travelsafely.vercel.app/)** - Navigation around high-crime areas
