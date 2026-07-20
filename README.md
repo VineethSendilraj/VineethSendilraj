@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vineethsendilraj"><img src="https://img.shields.io/badge/In-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5" alt="LinkedIn"/></a>
   <a href="https://x.com/VineethSendil"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://www.vineethsendilraj.com/"><img src="https://img.shields.io/badge/vineethsendilraj.com-2ecc71?style=flat&color=46AE92" alt="Portfolio"/></a>
+  <!-- <a href="https://www.vineethsendilraj.com/"><img src="https://img.shields.io/badge/vineethsendilraj.com-2ecc71?style=flat&color=46AE92" alt="Portfolio"/></a> -->
 </p>
 
 <!-- animated contribution graph (commented out for now — re-enable by
