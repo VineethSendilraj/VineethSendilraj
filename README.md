@@ -20,7 +20,7 @@
 ### Consumer Apps
 - **[safely](https://travelsafely.vercel.app/)** - Navigation around high-crime areas
 - **[GradGT](https://grad-gt.vercel.app/)** - Pre-requisite visualization chart
-- **[Yuno](https://www.yuno.so)** - Want to research without 50 tabs open?
+- **[Yuno](https://www.yuno.so)** -Research without 50 tabs open
 - **[FreeSauce](https://free-stuff-eta.vercel.app/)** - Free credits & tools for college builders
 - **[CADmir](https://www.cadmir.org)** - AI heart research database
 
