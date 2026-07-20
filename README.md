@@ -38,4 +38,4 @@
 
 <br>
 
-Want to build / chat? Shoot me an email! <a href="mailto:vineethsendilraj@gatech.edu">`vineethsendilraj@gatech.edu`</a>
+<a href="mailto:vineethsendilraj@gmail.com">`vineethsendilraj@gmail.com`</a>
