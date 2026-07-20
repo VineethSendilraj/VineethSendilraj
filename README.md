@@ -16,7 +16,6 @@
 </p>
 -->
 
-## Projects
 ### Consumer Apps
 - **[safely](https://travelsafely.vercel.app/)** - Navigation around high-crime areas
 - **[GradGT](https://grad-gt.vercel.app/)** - Pre-requisite visualization chart
