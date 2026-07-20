@@ -17,7 +17,7 @@
 -->
 
 ## Projects
-### 🚀 Consumer Apps
+### Consumer Apps
 - **[safely](https://travelsafely.vercel.app/)** - Navigation around high-crime areas
 - **[GradGT](https://grad-gt.vercel.app/)** - Pre-requisite visualization chart
 - **[Yuno](https://www.yuno.so)** - Want to research without 50 tabs open?
@@ -25,12 +25,12 @@
 - **[CADmir](https://www.cadmir.org)** - AI heart research database
 
 
-### 🔬 Research Projects
+### Biotech/Bioinformatics
 - **[Micro-Q](https://partner.projectboard.world/isef/project/ebed043t-micro-q-a-low-cost-iot-based-fluorometer)** - Low-cost IoT fluorometer
 - **CADlock ([Phase 2](https://2023.igem.wiki/lambert-ga/), [Phase 1](https://2022.igem.wiki/lambert-ga/))** - Heart disease diagnostics
 - **[AgroSENSE](https://2021.igem.org/Team:Lambert_GA)** - Nutrient biosensors for hydroponics
 
-### 🛠️ Hackathon & Side Projects
+### Prototypes
 - **[Boovie](https://devpost.com/software/boovie)** - AI-generated movie trailers
 - **[SignSight](https://devpost.com/software/sign-sight-no-voice-unheard)** - Conversational smart-glasses for the deaf
 - **[Deqo](https://devpost.com/software/deqo)** - Decentralized computing marketplace
